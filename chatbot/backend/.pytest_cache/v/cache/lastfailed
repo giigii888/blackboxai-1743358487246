@@ -1,0 +1,21 @@
+{
+  "test_api_endpoints.py::test_user_flow": true,
+  "api_test_suite.py::test_user_workflow": true,
+  "tests/integration/test_users.py::test_get_users": true,
+  "tests/integration/test_users.py::test_create_user": true,
+  "tests/integration/test_users.py::test_get_specific_user": true,
+  "tests/integration/test_users.py::test_update_user": true,
+  "tests/integration/test_users.py::test_delete_user": true,
+  "tests/integration/test_users.py": true,
+  "tests/integration/test_users_fixed.py::test_get_users": true,
+  "tests/integration/test_users_fixed.py::test_create_user": true,
+  "tests/integration/test_users_working.py::test_get_users": true,
+  "tests/integration/test_users_working.py::test_create_user": true,
+  "tests/integration/test_users_proper.py::test_get_users": true,
+  "tests/integration/test_users_proper.py::test_create_user": true,
+  "tests/integration/test_users_final.py::test_get_users": true,
+  "tests/integration/test_users_final.py::test_create_user": true,
+  "tests/integration/test_users_stable.py::test_get_users": true,
+  "tests/integration/test_users_stable.py::test_create_user": true,
+  "tests/integration/test_users_http.py::test_create_user": true
+}
